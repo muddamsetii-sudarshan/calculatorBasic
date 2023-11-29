@@ -19,13 +19,23 @@ button{
     height: 80px;
     border-radius: 5px;
 }
-.inp{
-padding: 5px;
+.eva{
+    padding: 0px 5px 5px 5px;
 }
-input{
+.inp{
+padding: 5px 5px 0px 5px;
+}
+.exp{
     width: 280px;
     height: 30px;
     text-align: center;
+    border: none;
+}
+.fin{
+    width: 280px;
+    height: 30px;
+    text-align: center;
+    border: none;
 }
 .center{
     margin-top: 30px;
