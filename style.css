@@ -1,10 +1,12 @@
 *{
     margin: 0;
+    background-color: black;
 }
 .main{
     width:300px;
     height:400px;
     background-color: rgb(156, 130, 97);
+    border: 2px solid white;
 }
 .row{
     width:300px;
@@ -30,14 +32,18 @@ padding: 5px 5px 0px 5px;
     height: 30px;
     text-align: center;
     border: none;
+    color: white;
 }
 .fin{
     width: 280px;
     height: 30px;
     text-align: center;
     border: none;
+    color: white;
 }
 .center{
+    width:100%;
+    height:500px;
     margin-top: 30px;
     display: flex;
     justify-content: center;
